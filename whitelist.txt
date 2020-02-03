@@ -1,6 +1,3 @@
 EZTVBridge
-GoogleSearchBridge
-ThePirateBayBridge
 VkBridge
-YoutubeBridge
 TwitterBridge
